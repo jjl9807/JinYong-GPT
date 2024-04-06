@@ -13,15 +13,15 @@
 
 ```
 JinYong-GPT
-├─ data 				// 金庸小说数据集
-├─ dataset 				// MindRecord 格式数据集文件
-├─ inference.py 		// 推理脚本
-├─ train.py 			// 模型训练脚本
+├─ data 		// 金庸小说数据集
+├─ dataset 		// MindRecord 格式数据集文件
+├─ inference.py 	// 推理脚本
+├─ train.py 		// 模型训练脚本
 ├─ src
-│ ├─ dataset.py 		// 训练数据集生成脚本
-│ ├─ gpt.py 			// 模型主体代码
-│ ├─ pre_process.py 	// 数据预处理脚本
-│ └─ utils.py 			// 工具和 Config 类
+│ ├─ dataset.py 	// 训练数据集生成脚本
+│ ├─ gpt.py 		// 模型主体代码
+│ ├─ pre_process.py     // 数据预处理脚本
+│ └─ utils.py 		// 工具和 Config 类
 ...
 ```
 
